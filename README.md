@@ -8,15 +8,15 @@
 
 ## Project Screenshots
 
-### Screenshot 1
+### Main Page
 
 ![Website Screenshot 1](https://github.com/yavuzkarakus/wikipediaSearcher/blob/master/Wikipedia%20Searcher%20SS1.jpg)
 
-### Screenshot 2
+### Index Page
 
 ![Website Screenshot 2](https://github.com/yavuzkarakus/wikipediaSearcher/blob/master/Wikipedia%20Searcher%20SS2.jpg)
 
-### Screenshot 3
+### Result
 
 ![Website Screenshot](https://github.com/yavuzkarakus/wikipediaSearcher/blob/master/Wikipedia%20Searcher%20SS3.jpg)
 
